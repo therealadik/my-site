@@ -1,1 +1,1 @@
-# my-site
+DirectoryIndex index.php
